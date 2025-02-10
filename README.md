@@ -33,6 +33,13 @@ Motivated **Python Developer** with 3 years of experience in building and mainta
 
 ---
 
+## 📰 Lifelong Learner
+- Passionate about **reading technical articles** and staying updated on industry advancements.
+- Constantly exploring **new technologies, tools, and best practices** to stay ahead of the curve.
+- In my spare time, I balance **creative pursuits, fitness routines**, and setting **SMART goals** to achieve personal and professional growth.
+
+---
+
 ## 🎓 Education
 - **Master of Science in Computer Science** (In Progress - Expected Completion: 12/2026)  
   Maharishi International University, Fairfield, Iowa
