@@ -8,6 +8,7 @@ Motivated **Python Developer** with 3 years of experience in building and mainta
 - 🔹 Proficient in **Database Management (SQL, NoSQL)**
 - 🔹 Enthusiastic about **CI/CD, Docker, AWS, and Kubernetes**
 - 🔹 Advocate for **SOLID Principles, OOP, and Test-Driven Development**
+- 🔹 Currently learning **RUST :crab:**
 
 ---
 
