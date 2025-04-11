@@ -1,7 +1,7 @@
 # Hi there, I'm Nan Hpauyu! 👋
 
 ## 🚀 About Me
-Motivated **Python Developer** with 3 years of experience in building and maintaining enterprise applications in **IT, Blockchain, and Ecommerce** industries. Passionate about writing clean, efficient code and building scalable applications. Skilled in developing projects from scratch and enhancing legacy systems with new efficient features.
+Motivated **Python Developer** in building and maintaining enterprise applications in **IT, Blockchain, and Ecommerce** industries. Passionate about writing clean, efficient code and building scalable applications. Skilled in developing projects from scratch and enhancing legacy systems with new efficient features.
 
 - 🔹 Strong knowledge of **Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript, ReactJs**
 - 🔹 Experienced in **Web Scraping, Data Processing, and API Development**
