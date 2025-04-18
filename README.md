@@ -1,27 +1,26 @@
 # Hi there, I'm Nan Hpauyu! 👋
 
 ## 🚀 About Me
-Motivated **Python Developer** in building and maintaining enterprise applications in **IT, Blockchain, and Ecommerce** industries. Passionate about writing clean, efficient code and building scalable applications. Skilled in developing projects from scratch and enhancing legacy systems with new efficient features.
+Motivated **Software Developer** in building and maintaining enterprise applications in **IT, Blockchain, and Ecommerce** industries. Passionate about writing clean, efficient code and building scalable applications. Skilled in developing projects from scratch and enhancing legacy systems with new efficient features.
 
-- 🔹 Strong knowledge of **Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript, ReactJs**
+- 🔹 Strong knowledge of **Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript, ReactJs, RUST**
 - 🔹 Experienced in **Web Scraping, Data Processing, and API Development**
 - 🔹 Proficient in **Database Management (SQL, NoSQL)**
 - 🔹 Enthusiastic about **CI/CD, Docker, AWS, and Kubernetes**
 - 🔹 Advocate for **SOLID Principles, OOP, and Test-Driven Development**
-- 🔹 Currently learning **RUST :crab:**
 
 ---
 
 ## 💻 Tech Stack
 
 ### **Programming Languages**
-- Python  
+- Python  | Rust
 
 ### **Web Development**
 - HTML | CSS | JavaScript | Bootstrap | React.js
 
 ### **Frameworks & Libraries**
-- Django | Flask | Selenium | NumPy | Pandas
+- Django | Flask | Selenium | NumPy | Pandas |PyO3 |SQLx | Reqwest
 
 ### **Database Management**
 - MySQL | SQLite | PostgreSQL | NoSQL | MongoDB
@@ -51,7 +50,5 @@ Motivated **Python Developer** in building and maintaining enterprise applicatio
 
 ## 📫 Let's Connect!
 - **📩 Email:** nan.hpauyu@yahoo.com  
-- **💼 LinkedIn:** [Nan Hpauyu](https://www.linkedin.com/in/nanhpauyu/)  
-- **🌐 Portfolio:** [Welcome!](https://d3cpzuf1vpduci.cloudfront.net/)  
 
 Feel free to explore my repositories and reach out for collaboration! 🚀
