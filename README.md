@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Motivated **Software Developer** in building and maintaining enterprise applications in **IT, Blockchain, and Ecommerce** industries. Passionate about writing clean, efficient code and building scalable applications. Skilled in developing projects from scratch and enhancing legacy systems with new efficient features.
 
-- 🔹 Strong knowledge of **Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript, ReactJs, RUST**
+- 🔹 Strong knowledge of **Python,RUST, Django, Flask, REST APIs, HTML5, CSS, JavaScript, ReactJs**
 - 🔹 Experienced in **Web Scraping, Data Processing, and API Development**
 - 🔹 Proficient in **Database Management (SQL, NoSQL)**
 - 🔹 Enthusiastic about **CI/CD, Docker, AWS, and Kubernetes**
